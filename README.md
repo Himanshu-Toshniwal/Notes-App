@@ -50,7 +50,7 @@ The JavaScript file (`script.js`) includes:
 ## Screenshots
 Include screenshots of your application below to showcase its features and user interface.
 
-![Screenshot 1]()
+![Screenshot 1](https://github.com/Himanshu-Toshniwal/Notes-App/blob/1cbd0566a34549c709df24242bf63902c1bf17ee/Screenshot.png)
 
 ## Usage
 To use the Notes App:
